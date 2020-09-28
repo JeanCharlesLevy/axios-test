@@ -1,0 +1,7 @@
+applications:
+- name: td00
+  path: td00-backend/target/td00-backend-1.0-SNAPSHOT.jar
+  memory: 256m
+  env:
+    JAVA_OPTS: '-XX:ReservedCodeCacheSize=32M -XX:MaxDirectMemorySize=32M'
+    JBP_CONFIG_OPEN_JDK_JRE: '[memory_calculator: {stack_threads: 30}]'

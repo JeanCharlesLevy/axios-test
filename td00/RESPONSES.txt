@@ -1,0 +1,41 @@
+levy Jean-Charles 
+
+EXO 1
+
+Question 4 : J'utilise la version de maven 3.6.3 (cmd mvn -version)
+
+Question 5 : groupID permet d'identifier notre projet parmi les autres de manière inversée
+	     L'artifactID sert à nous identifier, c'est un JAR. On doit lui associer le nom déployé sur Maven dans groupID
+
+Question 6 : Ce répertoire contient les sous-dossiers de classes, le status de maven, les sources générées et un répertoire node en front-end.w
+
+Question 8 : Le class path permet de préciser la localisation des classes et packages utililisés, c'est un chemin pour y accéder
+
+Question 13 : C'est lorsque nos classes/programme rédigé d'un projet, doit être compatible avec la version de Java utilisé.
+			On lui met alors la valeur 1.8
+
+
+
+EXO 2 
+
+Question 1 : Le fichier Jar ne peut pas être exécuté, car il ne contient pas de MANIFEST
+
+
+
+EXO 3 
+
+
+Question 3 : La commande sysout + Ctrl + espace est un raccourci pour la commande System.out.println();
+
+Question 4 : La commande toStr + Ctrl + espace permet d'ouvrir une fenêtre avec toutes les méthodes qui contiennent les characteres "to" et "Str", comme toString à redéfinir ou toStream en autres
+
+Question 5 : C'est un raccourci pour utiliser la méhode static main et d'autres 
+
+Question 6 : On a premièrement un raccourci généré automatiquement pour créer un getter sur Toto, et d'autres méthodes suggérées
+		On a aussi un raccourci généré pour créer un setter automatiquement sur Toto
+
+Question 7 : Cette commande sert à renommer la classe sélectionnée. Pour le champ Toto, elle a le même effet
+
+Question 8 : je n'ai pas trouvé le fichier src.zip sur le site d'oracle
+
+
