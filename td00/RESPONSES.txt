@@ -1,5 +1,7 @@
 levy Jean-Charles 
 
+TP1 : 21/09/20
+
 EXO 1
 
 Question 4 : J'utilise la version de maven 3.6.3 (cmd mvn -version)
@@ -37,5 +39,15 @@ Question 6 : On a premièrement un raccourci généré automatiquement pour cré
 Question 7 : Cette commande sert à renommer la classe sélectionnée. Pour le champ Toto, elle a le même effet
 
 Question 8 : je n'ai pas trouvé le fichier src.zip sur le site d'oracle
+
+
+
+
+TP2 : 28/09/20
+
+Question 5 : Lorsque l'on tape git diff, on observe que git nous renvoie deux messages l'un vert l'autre rouge
+montrant respectivement ce qui a été modifié. Les 2 couleurs montrant que le fichier n'a pas encore été sauvegardé pleinement sur le git(avec le git add).
+
+
 
 

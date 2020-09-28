@@ -55,7 +55,7 @@ public class PrimeCollection {
         SpringApplication.run(PrimeCollection.class, args);
         ArrayList<Integer> test = new ArrayList<Integer>();
 		PrimeCollection data = new PrimeCollection(test);
-		data.initRandom(100,1000);
+		data.initRandom(100,2000);
 		data.printPrimes();
     }
 
